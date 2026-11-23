@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pruebas</string>
+    <string name="pantalla_principal">Pantalla principal</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Aplicaciones móviles</string>
+    <string name="home_fab_text">Botón presionado</string>
+    <string name="image_description">Carro</string>
+    <string name="materia">Aplicaciones móviles</string>
+    <string name="nombre">Cristian Emmanuel</string>
+    <string name="apellido">Calvillo Escobedo</string>
+</resources>
